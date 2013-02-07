@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1359683823 source:c:\users\lara mae\downloads\programming\insertion\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+
